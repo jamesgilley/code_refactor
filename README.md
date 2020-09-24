@@ -13,9 +13,9 @@ If you click on the link provided, the file should open in your default browser.
 
 ## Built With
 
-*HTML
-*CSS
-*Stroke of lucky
+* HTML
+* CSS
+* Stroke of lucky
 
 ## Authors
 
