@@ -17,12 +17,12 @@ header {
   margin: 20px;
 }
 
-.header h1 {
+header h1 {
   display: inline-block;
   font-size: 48px;
 }
 
-.header h1 .seo {
+header h1 .seo {
   color: #d9dcd6;
 }
 
@@ -34,7 +34,7 @@ header div {
   font-size: 20px;
 }
 
-header nav ul {
+header div ul {
   list-style-type: none;
   margin-left: 20px;
 }
